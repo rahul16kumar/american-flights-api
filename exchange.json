@@ -1,0 +1,19 @@
+{
+  "main" : "american-flights-api.raml",
+  "name" : "American Flights API ACB",
+  "classifier" : "raml",
+  "tags" : [ ],
+  "groupId" : "573f0a13-9e10-4ec6-b99c-228f37544c4d",
+  "assetId" : "American-Flights-API",
+  "version" : "1.0.0",
+  "apiVersion" : "v1",
+  "dependencies" : [ {
+    "groupId" : "68ef9520-24e9-4cf2-b2f5-620025690913",
+    "assetId" : "training-american-flight-data-type",
+    "version" : "1.0.1"
+  }, {
+    "groupId" : "68ef9520-24e9-4cf2-b2f5-620025690913",
+    "assetId" : "training-american-flights-example",
+    "version" : "1.0.1"
+  } ]
+}
